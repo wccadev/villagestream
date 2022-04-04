@@ -66,5 +66,71 @@
 				}
 			]
 		}]
-	}]
+	},
+	{
+		"id": "riv-mor",
+		"title": "Memories of Riverside",
+		"releaseDate": "2020-10-13T02:01:00+02:00",
+		"shortDescription": "A series of conversations with long time Riverside residents!",
+		"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/mor-season1_thumbnail.jpg",
+		"genres": [
+			"documentary",
+			"history"
+		],
+		"tags": ["Riverside", "Documentary"],
+		"seasons": [{
+			"seasonNumber": "1",
+			"episodes": [
+				{
+					"id": "riv-mor-donFarnham",
+					"title": "Don Farnham",
+					"episodeNumber": 1,
+					"content": {
+						"dateAdded": "2016-12-23T02:32:24Z",
+						"videos": [{
+							"videoType": "HLS",
+							"url": "https://cstr-vod.castr.com/videos/vd18c4e650b21411ecb4b5/iqEZMVnd1bZuwe3f.mp4/index.m3u8",
+							"quality": "FHD"
+						}],
+						"duration": 1140,
+						"language": "en-us"
+					},
+					"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/don.jpg",
+					"shortDescription": "A conversation with Don Farnham",
+					"releaseDate": "2016-12-23",
+					"longDescription": "Riverside TV sits down with longtime Riverside resident Don Farnham. He talks about his time in World War II and later his life as a camera operator.",
+					"tags": ["Riverside", "Documentary"],
+					"genres": [
+						"documentary",
+						"history"
+					]
+				},
+				{
+					"id": "riv-mor-joanneKosey",
+					"title": "JoAnne Kosey",
+					"episodeNumber": 2,
+					"content": {
+						"dateAdded": "2016-12-23T02:32:24Z",
+						"videos": [{
+							"videoType": "HLS",
+							"url": "https://cstr-vod.castr.com/videos/vd18c4e650b21411ecb4b5/13Rif5gGdYiYH48h.mp4/index.m3u8",
+							"quality": "FHD"
+						}],
+						"duration": 2640,
+						"language": "en-us"
+					},
+					"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/joann.jpg",
+					"shortDescription": "A conversation with JoAnne Kosey",
+					"releaseDate": "2016-12-23",
+					"longDescription": "Riverside TV sits down with noted Riverside resident JoAnne Kosey. She talks about her time growing up in Riverside and how she has helped influence it's path!",
+					"tags": ["Riverside", "Documentary"],
+					"genres": [
+						"documentary",
+						"history"
+					]
+				}
+			]
+		}]
+	}
+]
 }
