@@ -1,26 +1,70 @@
 {
-      "providerName": "myChannelName",
-      "language": "en-us",
-      "lastUpdated": "2019-09-30T18:12:32.125Z",
-      "shortFormVideos": [{
-          "id": "201708127",
-          "title": "myAwesomeVideo",
-          "shortDescription": "A short description (<200 characters) of my video",
-          "longDescription": "A longer description (<500 characters) of my video",
-          "thumbnail": "http://myhostingsolution.com/feeds/mycontent.JPG",
-          "genres": ["comedy"],
-          "tags": ["comedy"],
-          "releaseDate": "2019-10-31",
-          "content": {
-              "dateAdded": "2019-10-31T14:14:54.431Z",
-              "captions": [],
-              "duration": 600,
-              "videos": [{
-                  "url": "http://myhostingsolution.com/feeds/mycontent.mp4",
-                  "quality": "HD",
-                  "videoType": "MP4",
-                  "bitrate": 1000
-              }]
-           }
-       }]
-    }
+	"providerName": "Village Stream",
+	"language": "en-us",
+	"lastUpdated": "2022-04-04T08:12:32.125Z",
+	"series": [{
+		"id": "riv-vbot",
+		"title": "Village of Riverside Board of Trustees Meetings",
+		"releaseDate": "2020-10-13T02:01:00+02:00",
+		"shortDescription": "Watch past Village of Riverside Board of Trustees Meetings!",
+		"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/riv-vbot.jpg",
+		"genres": [
+			"educational",
+			"news"
+		],
+		"tags": ["Riverside", "Government"],
+		"seasons": [{
+			"seasonNumber": "2022",
+			"episodes": [
+				{
+					"id": "riv-vbot-220303-rm",
+					"title": "Regular Meeting, March 3, 2022",
+					"episodeNumber": 220303,
+					"content": {
+						"dateAdded": "2022-03-03T02:32:24Z",
+						"videos": [{
+							"videoType": "HLS",
+							"url": "https://cstr-vod.castr.com/videos/vd18c4e650b21411ecb4b5/NRkvInzs53vl6MJI.mp4/index.m3u8",
+							"quality": "FHD"
+						}],
+						"duration": 3720,
+						"language": "en-us"
+					},
+					"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/riv-vbot.jpg",
+					"shortDescription": "The Village of Riverside Board of Trustees Regular Meeting for March 03, 2022.",
+					"releaseDate": "2022-03-03",
+					"longDescription": "The Village of Riverside Board of Trustees held a Regular Meeting on March 03, 2022. This video was produced by Riverside TV — Village of Riverside, Illinois.",
+					"tags": ["Riverside", "Government"],
+					"genres": [
+						"educational",
+						"news"
+					]
+				},
+				{
+					"id": "riv-vbot-220317-rm",
+					"title": "Regular Meeting, March 17, 2022",
+					"episodeNumber": 220317,
+					"content": {
+						"dateAdded": "2022-03-17T02:32:24Z",
+						"videos": [{
+							"videoType": "HLS",
+							"url": "https://cstr-vod.castr.com/videos/vd18c4e650b21411ecb4b5/GdMmh210G8CmQbnt.mp4/index.m3u8",
+							"quality": "FHD"
+						}],
+						"duration": 3720,
+						"language": "en-us"
+					},
+					"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/riv-vbot.jpg",
+					"shortDescription": "The Village of Riverside Board of Trustees Regular Meeting for March 17, 2022.",
+					"releaseDate": "2022-03-17",
+					"longDescription": "The Village of Riverside Board of Trustees held a Regular Meeting on March 17, 2022. This video was produced by Riverside TV — Village of Riverside, Illinois.",
+					"tags": ["Riverside", "Government"],
+					"genres": [
+						"educational",
+						"news"
+					]
+				}
+			]
+		}]
+	}]
+}
