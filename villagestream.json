@@ -70,7 +70,7 @@
 	{
 		"id": "riv-tbot",
 		"title": "Township of Riverside Board of Trustees Meetings",
-		"releaseDate": "2020-10-13T02:01:00+02:00",
+		"releaseDate": "2022-10-13T02:01:00+02:00",
 		"shortDescription": "Watch past Riverside Township Board of Trustees Meetings!",
 		"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/riv-tbot.jpg",
 		"genres": [
@@ -111,7 +111,7 @@
 	{
 		"id": "d96",
 		"title": "District 96 Board of Education Meetings",
-		"releaseDate": "2020-16-13T02:01:00+02:00",
+		"releaseDate": "2022-03-16T02:01:00+02:00",
 		"shortDescription": "Watch past District 96 Board of Education Meetings!",
 		"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/d96.jpg",
 		"genres": [
@@ -123,7 +123,7 @@
 			"seasonNumber": "2022",
 			"episodes": [
 				{
-					"id": "riv-tbot-220316-rm",
+					"id": "d96-220316-rm",
 					"title": "District 96 Board of Education: Regular Meeting, March 16, 2022",
 					"episodeNumber": 220309,
 					"content": {
