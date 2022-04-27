@@ -31,9 +31,9 @@
 						"language": "en-us"
 					},
 					"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/riv-vbot.jpg",
-					"shortDescription": "The Village of Riverside Board of Trustees Regular Meeting for March 03, 2022.",
+					"shortDescription": "The Village of Riverside Board of Trustees Regular Meeting for March 3, 2022.",
 					"releaseDate": "2022-03-03",
-					"longDescription": "The Village of Riverside Board of Trustees held a Regular Meeting on March 03, 2022. This video was produced by Riverside TV — Village of Riverside, Illinois.",
+					"longDescription": "The Village of Riverside Board of Trustees held a Regular Meeting on March 3, 2022. This video was produced by Riverside TV — Village of Riverside, Illinois.",
 					"tags": [],
 					"genres": [
 						"educational",
@@ -96,9 +96,50 @@
 						"language": "en-us"
 					},
 					"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/riv-tbot.jpg",
-					"shortDescription": "The Riverside Township Board of Trustees Regular Meeting for March 09, 2022.",
-					"releaseDate": "2022-03-03",
-					"longDescription": "The Riverside Township Board of Trustees held a Regular Meeting on March 09, 2022. This video was produced by Riverside TV — Village of Riverside, Illinois.",
+					"shortDescription": "The Riverside Township Board of Trustees Regular Meeting for March 9, 2022.",
+					"releaseDate": "2022-03-09",
+					"longDescription": "The Riverside Township Board of Trustees held a Regular Meeting on March 9, 2022. This video was produced by Riverside TV — Village of Riverside, Illinois.",
+					"tags": [],
+					"genres": [
+						"educational",
+						"news"
+					]
+				}
+			]
+		}]
+	},
+	{
+		"id": "d96",
+		"title": "District 96 Board of Education Meetings",
+		"releaseDate": "2020-16-13T02:01:00+02:00",
+		"shortDescription": "Watch past District 96 Board of Education Meetings!",
+		"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/d96.jpg",
+		"genres": [
+			"educational",
+			"news"
+		],
+		"tags": ["Riverside", "Government"],
+		"seasons": [{
+			"seasonNumber": "2022",
+			"episodes": [
+				{
+					"id": "riv-tbot-220316-rm",
+					"title": "District 96 Board of Education: Regular Meeting, March 16, 2022",
+					"episodeNumber": 220309,
+					"content": {
+						"dateAdded": "2022-03-16T02:32:24Z",
+						"videos": [{
+							"videoType": "HLS",
+							"url": "https://cstr-vod.castr.com/videos/vd18c4e650b21411ecb4b5/YzOvIjlH0tV7AXC3.mp4/index.m3u8",
+							"quality": "FHD"
+						}],
+						"duration": 4260,
+						"language": "en-us"
+					},
+					"thumbnail": "https://wccadev.github.io/villagestream/riverside/thumbnails/d96.jpg",
+					"shortDescription": "The District 96 Board of Education Meeting for March 16, 2022.",
+					"releaseDate": "2022-03-16",
+					"longDescription": "The District 96 Board of Education held a Regular Meeting on March 16, 2022. This video was produced by Riverside TV — Village of Riverside, Illinois.",
 					"tags": [],
 					"genres": [
 						"educational",
