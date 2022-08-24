@@ -287,7 +287,11 @@
 			"thumbnail": "https://wccadev.github.io/villagestream/lagrangepark/thumbnails/StateOfLagrangePark2021.jpg",
 			"shortDescription": "An update on the State of the Village of La Grange Park at the end of 2021",
 			"releaseDate": "2021-12-08",
-			"tags": ["La Grange Park"]
+			"tags": ["La Grange Park"],
+			"genres": [
+				"special",
+				"news"
+			]
 		},
 		{
 			"id": "lagp-terrificTrees-21",
@@ -305,7 +309,11 @@
 			"thumbnail": "https://wccadev.github.io/villagestream/lagrangepark/thumbnails/trees.jpg",
 			"shortDescription": "A presentation on choosing native plantings presented by The La Grange Park Sustainability Commission",
 			"releaseDate": "2021-04-08",
-			"tags": ["La Grange Park"]
+			"tags": ["La Grange Park"],
+			"genres": [
+				"special",
+				"educational"
+			]
 		},
 		{
 			"id": "lagp-zeroWaste-21",
@@ -323,7 +331,11 @@
 			"thumbnail": "https://wccadev.github.io/villagestream/lagrangepark/thumbnails/zeroWaste.jpg",
 			"shortDescription": "A presentation on zero waste presented by The La Grange Park Sustainability Commission",
 			"releaseDate": "2021-04-15",
-			"tags": ["La Grange Park"]
+			"tags": ["La Grange Park"],
+			"genres": [
+				"special",
+				"educational"
+			]
 		}
     ]
 }
