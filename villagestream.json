@@ -1,7 +1,33 @@
 {
 	"providerName": "Village Stream",
 	"language": "en-us",
-	"lastUpdated": "2022-04-29T12:12:32.125Z",
+	"lastUpdated": "2023-01-08T12:12:32.125Z",
+	"liveFeeds": [
+        {  
+			"id":"riv-live",
+			"title":"Riverside TV",
+			"content":{  
+				"dateAdded": "2023-01-07T00:00:00+00:00",
+				"videos": [
+						{
+							"url": "https://177308.global.ssl.fastly.net/623b7cf914a0ac7bfa403740/live_993d5a00c67911ec94ff9b3be83ef853/index.m3u8",
+							"quality": "FHD",
+							"videoType": "HLS"
+						}
+					],
+					"language": "en"
+			},
+			"thumbnail":"https://wccadev.github.io/villagestream/riverside/thumbnails/riv-live.jpg",
+			"brandedThumbnail":"https://wccadev.github.io/villagestream/riverside/thumbnails/riv-live-greenbg.jpg",
+			"shortDescription":"Riverside TV's 24/7 broadcast",
+			"longDescription":"The simulcast of Riverside TV's broadcast station",
+			"tags":[  
+				"Riverside",
+				"Live",
+				"Government"
+			]
+		}
+    ],
 	"series": [
 		{
 			"id": "riv-vbot",
