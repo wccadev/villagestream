@@ -3,7 +3,7 @@
 	"language": "en-us",
 	"lastUpdated": "2023-01-08T12:12:32.125Z",
 	"liveFeeds": [
-        {  
+    {  
 			"id":"riv-live",
 			"title":"Riverside TV",
 			"content":{  
@@ -23,6 +23,30 @@
 			"longDescription":"The simulcast of Riverside TV's broadcast station",
 			"tags":[  
 				"Riverside",
+				"Live",
+				"Government"
+			]
+		},
+		{  
+			"id":"rb-live",
+			"title":"RBTV",
+			"content":{  
+				"dateAdded": "2023-03-06T00:00:00+00:00",
+				"videos": [
+						{
+							"url": "https://177308.global.ssl.fastly.net/623b7cf914a0ac7bfa403740/live_0675bcf0bd0c11edbb28ab82872d8b44/index.m3u8",
+							"quality": "FHD",
+							"videoType": "HLS"
+						}
+					],
+					"language": "en"
+			},
+			"thumbnail":"https://wccadev.github.io/villagestream/rbtv/thumbnails/rb-live.jpg",
+			"brandedThumbnail":"https://wccadev.github.io/villagestream/rbtv/thumbnails/rb-live-solidbg.jpg",
+			"shortDescription":"RBTV's 24/7 broadcast",
+			"longDescription":"The simulcast of RBTV's (Riverside Brookfield High School) broadcast station",
+			"tags":[  
+				"High School",
 				"Live",
 				"Government"
 			]
