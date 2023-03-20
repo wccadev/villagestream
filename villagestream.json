@@ -318,7 +318,25 @@
 			"shortDescription": "A showcase of retail offerings in The Village of La Grange",
 			"releaseDate": "2022-07-14",
 			"tags": ["La Grange"]
-		}	  
+		},
+		{
+			"id": "ws-fd-recruitment",
+			"title": "Join The Western Springs Fire Department",
+			"content": {
+				"dateAdded": "2023-01-20T00:00:00.000Z",
+				"videos": [{
+					"videoType": "HLS",
+					"url": "https://cstr-vod.castr.com/videos/vd424dc640098f11ed92ae/JCyXmmtPpTCRwXLg.mp4/index.m3u8",
+					"quality": "FHD"
+				}],
+				"duration": 180,
+				"language": "en-us"
+			},
+			"thumbnail": "https://wccadev.github.io/villagestream/westernsprings/thumbnails/ws-joinFD.jpg",
+			"shortDescription": "Learn about the benifits of joining the Western Springs Fire Department!",
+			"releaseDate": "2023-03-20",
+			"tags": ["Western Springs"]
+		}
     ],
 	"tvSpecials": [
 		{
