@@ -25,7 +25,8 @@
 				"Riverside",
 				"Live",
 				"Government"
-			]
+			],
+			"genres": ["news"]
 		},
 		{  
 			"id":"rb-live",
@@ -49,7 +50,8 @@
 				"High School",
 				"Live",
 				"RBTV"
-			]
+			],
+			"genres": ["news"]
 		}
     ],
 	"series": [
@@ -281,7 +283,12 @@
 			"thumbnail": "https://wccadev.github.io/villagestream/lagrangepark/thumbnails/WaterServiceLine.jpg",
 			"shortDescription": "La Grange Park public works shows how to identify your water service pipe material",
 			"releaseDate": "2022-06-29",
-			"tags": ["La Grange Park"]
+			"tags": ["La Grange Park"],
+			"genres": [
+				"educational",
+				"news"
+			]
+			
 		},
 		{
 			"id": "lagp-sustainable-ways-for-better-env",
@@ -299,7 +306,11 @@
 			"thumbnail": "https://wccadev.github.io/villagestream/lagrangepark/thumbnails/sustainableWays.jpg",
 			"shortDescription": "A few quick sustainability tips brought to you by The La Grange Park Sustainability Commission",
 			"releaseDate": "2022-07-19",
-			"tags": ["La Grange Park"]
+			"tags": ["La Grange Park"],
+			"genres": [
+				"educational",
+				"news"
+			]
 		},
 		{
 			"id": "lag-retail-22",
@@ -317,7 +328,11 @@
 			"thumbnail": "https://wccadev.github.io/villagestream/lagrange/thumbnails/retailInLagrange.jpg",
 			"shortDescription": "A showcase of retail offerings in The Village of La Grange",
 			"releaseDate": "2022-07-14",
-			"tags": ["La Grange"]
+			"tags": ["La Grange"],
+			"genres": [
+				"educational",
+				"news"
+			]
 		},
 		{
 			"id": "ws-fd-recruitment",
@@ -335,7 +350,11 @@
 			"thumbnail": "https://wccadev.github.io/villagestream/westernsprings/thumbnails/ws-joinFD.jpg",
 			"shortDescription": "Learn about the benifits of joining the Western Springs Fire Department!",
 			"releaseDate": "2023-03-20",
-			"tags": ["Western Springs"]
+			"tags": ["Western Springs"],
+			"genres": [
+				"educational",
+				"news"
+			]
 		}
     ],
 	"tvSpecials": [
