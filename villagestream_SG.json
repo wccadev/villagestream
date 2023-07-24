@@ -54,7 +54,7 @@
 			"genres": ["news"]
 		}
     ],
-	"series": [
+	"Series": [
 		{
 			"id": "riv-vbot",
 			"title": "Village of Riverside Board of Trustees Meetings",
@@ -266,7 +266,7 @@
 			}]
 		}
 	],
-	"shortFormVideos":  [
+	"Shorts":  [
 		{
 			"id": "lagp-determine-water-service-material",
 			"title": "How to Determine Your Water Service Material",
@@ -357,7 +357,7 @@
 			]
 		}
     ],
-	"tvSpecials": [
+	"Specials": [
 		{
 			"id": "lagp-stateOfTheVillage-21",
 			"title": "State of The Village 2021 - La Grange Park",
